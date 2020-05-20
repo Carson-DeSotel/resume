@@ -1,0 +1,96 @@
+%%
+% My resume, composed using LaTeX.
+%
+% @author: Carson DeSotel
+% @created: 2020-05-20
+% @updated:
+%%
+
+\documentclass[10pt]{article}
+
+\usepackage[legalpaper, margin=1in]{geometry} % specify margin & paper size
+
+\usepackage[T1]{fontenc}	% use for changing fonts
+\usepackage[utf8]{inputenc} % specify utf-8 encoding
+\usepackage{utopia}			% font choice
+
+\usepackage{enumitem}   	% for labels using enumeration
+
+\usepackage[yyyymmdd]{datetime} % for date using ISO-8601
+\renewcommand{\dateseparator}{--}
+
+\usepackage{fancyhdr}		% remove footer page number
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{Made by Carson DeSotel \hfill Last Updated: \today}
+\renewcommand{\headrulewidth}{0pt}
+
+\begin{document}
+	\begin{center}
+		{\LARGE \textbf{Carson DeSotel}} \\
+		\vspace{5pt} 		% add a little more space for aesthetics
+		(918) 809-2393 \ \textbullet \
+		carson.desotel@gmail.com \ \textbullet \
+		https://www.carsondesotel.com \
+		
+	\end{center}
+	
+	\hrulefill
+	
+	\section*{Education:}
+		\textbf{University of Minnesota - Twin Cities} \hfill 2018 - 2022 \\
+		\indent BA, \textit{Computer Science} \hfill 2022 \\
+		\indent \indent Pursuing courses related to algorithms, data structures, and data processing. \\
+		\indent \indent 
+		\begin{tabular}{@{}l@{\ }l}
+		\textbf{Relevant Courses: } & Algorithms \& Data Structures, Machine Architecture and Organization, \\ & Discrete Structures \\
+		\end{tabular}
+		
+		\vspace{5pt}
+		
+		\indent BS, \textit{Geography} \hfill 2022 \\
+		\indent \indent Pursuing courses related to geographic information systems and urban development. \\
+		\indent \indent
+		\begin{tabular}{@{}l@{\ }l}
+		\textbf{Relevant Courses: } & Changing Form of the City \\
+		\end{tabular}
+		
+	\hrulefill
+	
+	\section*{Experience:}
+		\textbf{University of Minnesota - Twin Cities} \hfill Minneapolis, Minnesota \\
+		\textit{Teaching Assistant \hfill January 2019 - present }
+		\begin{enumerate}[label=--]
+			\item Taught \textit{Intro. to C/C++ for Scientists and Engineers} and \textit{Intro. to Algorithms and Data Structures}.
+			\item Responsible for two lab section, office hours, grading, and managing a course site.
+			\item Held lab leader responsibilities including further administrative check-in's with course staff.
+			\item Used teleconferencing technology to hold lab sections and office hours.
+		\end{enumerate}
+	
+	\hrulefill	
+	
+	\section*{Technical Skills:}
+		\begin{tabular}{@{}l@{\ }l}
+		\textbf{Software: } & Microsoft Office Suite, Git, GitHub, {\large\LaTeX}, Markdown, Vim, Linux, Atom, \\  & Visual Studio Code, IntelliJ, PyCharm, TeXMaker\\
+		\end{tabular}
+		
+		\vspace{5pt}
+		\noindent
+		\begin{tabular}{@{}l@{\ }l}
+		\textbf{Programming Languages: } & C, C++, Java, Python, R, shell script (Bash) \\
+		\end{tabular}
+		
+		\vspace{5pt}
+		\noindent
+		\begin{tabular}{@{}l@{\ }l}
+		\textbf{Languages: } & English (native), French (working proficiency) \\
+		\end{tabular}
+		
+		
+	\hrulefill
+	
+	\section*{Involvement:}
+		\textbf{UMN CTF Hacking Competition} - 4th place \hfill April 2019 \\
+		\textbf{UMN Minnehack 2020 } - Participant \hfill January 2020\\
+		
+\end{document}
