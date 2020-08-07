@@ -3,21 +3,27 @@
 %
 % @author: Carson DeSotel
 % @created: 2020-05-20
-% @updated:
+% @updated: 2020-08-07
 %%
 
 \documentclass[10pt]{article}
 
-\usepackage[letterpaper, margin=1in]{geometry} % specify margin & paper size
-
-\usepackage[T1]{fontenc}	% use for changing fonts
-\usepackage[utf8]{inputenc} % specify utf-8 encoding
+\usepackage[T1]{fontenc}		% use for changing fonts
+\usepackage[utf8]{inputenc}	% specify utf-8 encoding
 \usepackage{utopia}			% font choice
 
-\usepackage{enumitem}   	% for labels using enumeration
+\usepackage{enumitem}   		% for labels using enumeration
 
 \usepackage[yyyymmdd]{datetime} % for date using ISO-8601
 \renewcommand{\dateseparator}{--}
+
+\usepackage{geometry}		% for margins
+\geometry{
+	letterpaper,				% page size
+	headheight=20pt,
+	headsep=10pt,
+	margin=0.75in,
+}
 
 \usepackage{fancyhdr}		% remove footer page number
 \pagestyle{fancy}
@@ -29,15 +35,13 @@
 	\begin{center}
 		{\LARGE \textbf{Carson DeSotel}} \\
 		\vspace{5pt} 		% add a little more space for aesthetics
-		(918) 809-2393 \ \textbullet \
-		carson.desotel@gmail.com \ \textbullet \
+		(918) 809-2393 \ \textbf{|} \
+		carson.desotel@gmail.com \ \textbf{|} \
 		https://www.carsondesotel.com \
 		
 	\end{center}
-	
-	\hrulefill
-	
-	\section*{Education:}
+		
+	\section*{Education: \hrulefill} 
 		\textbf{University of Minnesota - Twin Cities} \hfill 2018 - 2022 \\
 		\indent BA, \textit{Computer Science} \hfill 2022 \\
 		\indent \indent Pursuing courses related to algorithms, data structures, and data processing. \\
@@ -54,30 +58,35 @@
 		\begin{tabular}{@{}l@{\ }l}
 		\textbf{Relevant Courses: } & Changing Form of the City \\
 		\end{tabular}
-		
-	\hrulefill
-	
-	\section*{Experience:}
+			
+	\section*{Experience: \hrulefill}
 		\textbf{University of Minnesota - Twin Cities} \hfill Minneapolis, Minnesota \\
-		\textit{Teaching Assistant \hfill January 2019 - present }
+		\textit{Teaching Assistant} \hfill January 2019 - present 
 		\begin{enumerate}[label=--]
 			\item Taught \textit{Intro. to C / C++ for Scientists and Engineers} and \textit{Intro. to Algorithms and Data Structures}.
-			\item Responsible for two lab section, office hours, grading, and managing a course site.
+			\item Responsible for two lab sections, office hours, grading, and managing a course site.
 			\item Held lab leader responsibilities including further administrative check-in's with course staff.
-			\item Used teleconferencing technology to hold lab sections and office hours.
 		\end{enumerate}
-	
-	\hrulefill	
-	
-	\section*{Technical Skills:}
+		
+		\noindent
+		\textbf{Optum} \hfill Remote \\
+		\textit{Technology Development Program Intern} \hfill June 2020 - August 2020
+		\begin{enumerate}[label=--]
+			\item Extended an open source governance platform while working as a full stack developer on an agile team.
+			\item Developed a front end statistics reporting dashboard to be used across Optum by open source developers.
+			\item Selected to deliver a presentation and tech demonstration to executive at Optum and Optum - Ireland \\ alongside the entire Summer 2020 intern team across UnitedHealth Group and Optum.
+			\item Delivered four bi-weekly presentations to Optum executives on development progress while accepting and implementing feedback.
+		\end{enumerate}
+		
+	\section*{Technical Skills: \hrulefill}
 		\begin{tabular}{@{}l@{\ }l}
-		\textbf{Software: } & Atom, Microsoft Office and Google Drive Programs (Excel, Powerpoint, Sheets, Slides, ...), \\ & Git, GitHub, JetBrains Suite (IntelliJ, PyCharm), {\large \LaTeX}, Unix, Vim, Visual Studio Code
+		\textbf{Software: } & Angular, Git, GitHub, {\large \LaTeX},  Jenkins, Linux (Ubuntu, Manjaro), NodeJS, PostgreSQL, Vim
 		\end{tabular}
 		
 		\vspace{5pt}
 		\noindent
 		\begin{tabular}{@{}l@{\ }l}
-		\textbf{Programming Languages: } & C, C++, Java, Python, R, shell script (Bash) \\
+		\textbf{Programming Languages: } & C, C++, Java, Python, R, Rust, shell script (Bash), SQL, TypeScript\\
 		\end{tabular}
 		
 		\vspace{5pt}
@@ -86,10 +95,13 @@
 		\textbf{Languages: } & English (native), French (working proficiency) \\
 		\end{tabular}
 		
-		
-	\hrulefill
-	
-	\section*{Involvement:}
+		\vspace{5pt}
+		\noindent
+		\begin{tabular}{@{}l@{\ }l}
+		\textbf{Other: } &  agile development, Kanban workflow, public speaking \\
+		\end{tabular}
+			
+	\section*{Involvement: \hrulefill}
 		\textbf{Earth Day Minneapolis Cleanup} \hfill April 2019 \\
 		\textbf{UMN CTF Hacking Competition} - 4th place \hfill April 2019 \\
 		\textbf{UMN Minnehack 2020 } - Participant \hfill January 2020\\
