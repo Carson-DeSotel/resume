@@ -1,204 +1,187 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.15)  21 MAY 2020 14:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.1.1)  5 JAN 2021 15:49
 entering extended mode
-**./resume.tex
-(resume.tex
-LaTeX2e <2018-12-01>
-("C:\Users\Carson\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
-Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
-("C:\Users\Carson\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
-File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**resume.tex
+(./resume.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-12-03> xparse <2020-03-03>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
-\c@part=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\bibindent=\dimen102
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
 )
-("C:\Users\Carson\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry
-.sty"
-Package: geometry 2018/04/16 v5.8 Page Geometry
-
-("C:\Users\Carson\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.s
-ty"
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks14
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
 )
-("C:\Users\Carson\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.
-sty"
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
 )
-("C:\Users\Carson\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvtex
-.sty"
-Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-)
-("C:\Users\Carson\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex
-.sty"
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-\Gm@cnth=\count88
-\Gm@cntv=\count89
-\c@Gm@tempcnt=\count90
-\Gm@bindingoffset=\dimen103
-\Gm@wd@mp=\dimen104
-\Gm@odd@mp=\dimen105
-\Gm@even@mp=\dimen106
-\Gm@layoutwidth=\dimen107
-\Gm@layoutheight=\dimen108
-\Gm@layouthoffset=\dimen109
-\Gm@layoutvoffset=\dimen110
-\Gm@dimlist=\toks15
-
-("C:\Users\Carson\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry
-.cfg"))
-("C:\Users\Carson\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
-Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
-("C:\Users\Carson\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.def"
-File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-)) ("C:\Users\Carson\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.
-sty"
-Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks16
-\inpenc@posthook=\toks17
-)
-("C:\Users\Carson\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\utopia.sty
-"
-Package: utopia 2005/04/12 PSNFSS-v9.2a (P.Dyballa) 
+(/usr/share/texmf-dist/tex/latex/psnfss/utopia.sty
+Package: utopia 2020/03/25 PSNFSS-v9.3 (P.Dyballa) 
 
 
 Package utopia Warning: This package is to be regarded as obsolete.
 (utopia)                See the PSNFSS documentation.
 
-)
-("C:\Users\Carson\AppData\Local\Programs\MiKTeX 2.9\tex/latex/enumitem\enumitem
-.sty"
-Package: enumitem 2019/02/04 v3.8 Customized lists
-\labelindent=\skip43
-\enit@outerparindent=\dimen111
+) (/usr/share/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks17
+\labelindent=\skip49
+\enit@outerparindent=\dimen139
 \enit@toks=\toks18
-\enit@inbox=\box27
-\enit@count@id=\count91
-\enitdp@description=\count92
+\enit@inbox=\box47
+\enit@count@id=\count185
+\enitdp@description=\count186
 )
-("C:\Users\Carson\AppData\Local\Programs\MiKTeX 2.9\tex/latex/datetime\datetime
-.sty"
+(/usr/share/texmf-dist/tex/latex/datetime/datetime.sty
 Package: datetime 2015/03/20 v2.60 Date Time Package
 
-("C:\Users\Carson\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox
-.sty"
-Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count93
+(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count187
 )
-("C:\Users\Carson\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fmtcount
-.sty"
+(/usr/share/texmf-dist/tex/latex/fmtcount/fmtcount.sty
 Package: fmtcount 2020/01/30 v3.07
 
-("C:\Users\Carson\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Users\Carson\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.s
-ty"
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+(/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 
-("C:\Users\Carson\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyval
-.tex"
-("C:\Users\Carson\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvutil
-s.tex"
+(/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks19
 \XKV@tempa@toks=\toks20
-)
-\XKV@depth=\count94
+
+(/usr/share/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count188
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-("C:\Users\Carson\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fcprefix
-.sty"
+(/usr/share/texmf-dist/tex/latex/fmtcount/fcprefix.sty
 Package: fcprefix 2012/09/28
 
-("C:\Users\Carson\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fcnumpar
-ser.sty"
+(/usr/share/texmf-dist/tex/latex/fmtcount/fcnumparser.sty
 Package: fcnumparser 2017/06/15
-\fc@digit@counter=\count95
+\fc@digit@counter=\count189
 ))
-("C:\Users\Carson\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.st
-y"
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks21
-\ex@=\dimen112
+\ex@=\dimen140
 )
-\c@padzeroesN=\count96
-\fc@tmpcatcode=\count97
-\@DT@modctr=\count98
-\@ordinalctr=\count99
-\@orgargctr=\count100
-\@strctr=\count101
-\@tmpstrctr=\count102
-\@DT@loopN=\count103
-\@DT@X=\count104
+\c@padzeroesN=\count190
+\fc@tmpcatcode=\count191
+\@DT@modctr=\count192
+\@ordinalctr=\count193
+\@orgargctr=\count194
+\@strctr=\count195
+\@tmpstrctr=\count196
+\@DT@loopN=\count197
+\@DT@X=\count198
 )
-("C:\Users\Carson\AppData\Local\Programs\MiKTeX 2.9\tex/latex/datetime\datetime
--defaults.sty"
+(/usr/share/texmf-dist/tex/latex/datetime/datetime-defaults.sty
 Package: datetime-defaults 2013/09/10
 )
-\@day=\count105
-\@month=\count106
-\@year=\count107
-\c@HOUR=\count108
-\c@HOURXII=\count109
-\c@MINUTE=\count110
-\c@TOHOUR=\count111
-\c@TOMINUTE=\count112
-\c@SECOND=\count113
-\currenthour=\count114
-\currentminute=\count115
-\currentsecond=\count116
+\@day=\count199
+\@month=\count266
+\@year=\count267
+\c@HOUR=\count268
+\c@HOURXII=\count269
+\c@MINUTE=\count270
+\c@TOHOUR=\count271
+\c@TOMINUTE=\count272
+\c@SECOND=\count273
+\currenthour=\count274
+\currentminute=\count275
+\currentsecond=\count276
 Package datetime Info: No datetime.cfg file found, using default settings on in
 put line 308.
-\@dtctr=\count117
-\dayofyear=\count118
-\dayofweek=\count119
+\@dtctr=\count277
+\dayofyear=\count278
+\dayofweek=\count279
 LaTeX Info: Redefining \today on input line 736.
 \dt@a=\toks22
 \dt@b=\toks23
 )
-("C:\Users\Carson\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr
-.sty"
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count280
+\Gm@cntv=\count281
+\c@Gm@tempcnt=\count282
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks24
+)
+(/usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
-\f@nch@headwidth=\skip44
-\f@nch@O@elh=\skip45
-\f@nch@O@erh=\skip46
-\f@nch@O@olh=\skip47
-\f@nch@O@orh=\skip48
-\f@nch@O@elf=\skip49
-\f@nch@O@erf=\skip50
-\f@nch@O@olf=\skip51
-\f@nch@O@orf=\skip52
-) (C:\Users\Carson\Desktop\resume\build\resume.aux)
-\openout1 = `resume.aux'.
+\f@nch@headwidth=\skip50
+\f@nch@O@elh=\skip51
+\f@nch@O@erh=\skip52
+\f@nch@O@olh=\skip53
+\f@nch@O@orh=\skip54
+\f@nch@O@elf=\skip55
+\f@nch@O@erf=\skip56
+\f@nch@O@olf=\skip57
+\f@nch@O@orf=\skip58
+)
+LaTeX Font Info:    Trying to load font information for T1+put on input line 34
+.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Try loading font information for T1+put on input line 28.
-
-("C:\Users\Carson\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1put.fd"
+(/usr/share/texmf-dist/tex/latex/psnfss/t1put.fd
 File: t1put.fd 2001/06/04 font definitions for T1/put.
+)
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count283
+\l__pdf_internal_box=\box48
+)
+(build/resume.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+ (/usr/share/texmf-dist/tex/latex/fmtcount/fc-english.def
+File: fc-english.def 2016/01/12
 )
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -208,17 +191,17 @@ File: t1put.fd 2001/06/04 font definitions for T1/put.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
-* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* h-part:(L,W,R)=(54.2025pt, 505.89pt, 54.2025pt)
+* v-part:(T,H,B)=(54.2025pt, 686.56499pt, 54.2025pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=469.75502pt
-* \textheight=650.43001pt
-* \oddsidemargin=0.0pt
-* \evensidemargin=0.0pt
-* \topmargin=-37.0pt
-* \headheight=12.0pt
-* \headsep=25.0pt
+* \textwidth=505.89pt
+* \textheight=686.56499pt
+* \oddsidemargin=-18.06749pt
+* \evensidemargin=-18.06749pt
+* \topmargin=-48.06749pt
+* \headheight=20.0pt
+* \headsep=10.0pt
 * \topskip=10.0pt
 * \footskip=30.0pt
 * \marginparwidth=65.0pt
@@ -234,56 +217,40 @@ File: t1put.fd 2001/06/04 font definitions for T1/put.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 49.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 49.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 82.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 82.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 82.
 
-("C:\Users\Carson\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fc-engli
-sh.def"
-File: fc-english.def 2016/01/12
-)
-LaTeX Font Info:    Try loading font information for OMS+put on input line 32.
-
-("C:\Users\Carson\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsput.fd"
-File: omsput.fd 
-)
-LaTeX Font Info:    Font shape `OMS/put/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 32.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 45.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 45.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 74.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 74.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 74.
-
-Underfull \hbox (badness 10000) in paragraph at lines 93--96
+Underfull \hbox (badness 10000) in paragraph at lines 104--108
 
  []
 
 [1
 
-{C:/Users/Carson/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(C:\Users\Carson\Desktop\resume\build\resume.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (build/resume.aux) ) 
 Here is how much of TeX's memory you used:
- 2738 strings out of 492946
- 39174 string characters out of 3125822
- 124426 words of memory out of 3000000
- 6612 multiletter control sequences out of 15000+200000
- 62054 words of font info for 40 fonts, out of 3000000 for 9000
+ 2954 strings out of 479383
+ 42020 string characters out of 5875831
+ 348375 words of memory out of 5000000
+ 20053 multiletter control sequences out of 15000+600000
+ 461844 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,10n,43p,1024b,197s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Carson/AppData/Loc
-al/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/Carson/AppData/Loc
-al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Cars
-on/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/adobe/utopia/putb8a.pfb><C:/Us
-ers/Carson/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/adobe/utopia/putr8a.pf
-b><C:/Users/Carson/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/adobe/utopia/p
-utri8a.pfb>
-Output written on C:\Users\Carson\Desktop\resume\build\resume.pdf (1 page, 6066
-4 bytes).
+ 80i,10n,85p,1021b,192s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/
+share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1
+/adobe/utopia/putb8a.pfb></usr/share/texmf-dist/fonts/type1/adobe/utopia/putr8a
+.pfb></usr/share/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb>
+Output written on build/resume.pdf (1 page, 53407 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
+ 21 PDF objects out of 1000 (max. 8388607)
+ 14 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
